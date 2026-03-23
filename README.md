@@ -1,5 +1,13 @@
 # blackroad-secret-scanner
 
+> BlackRoad Security - ublackroad secret scanner
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Security](https://github.com/BlackRoad-Security)
+
+---
+
+# blackroad-secret-scanner
+
 High-signal secret detection engine using regex pattern matching + Shannon entropy analysis.
 
 ## Features
